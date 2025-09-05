@@ -39,7 +39,7 @@ const Footer = () => {
                 <MapPin className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
                 <p className="text-sm text-muted-foreground">
                  B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE,<br />
-                  AHMEDABAD, GUJARAT,B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE – 562114
+                  AHMEDABAD, GUJARAT,B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE Pin-382481
                 </p>
               </div>
               <div className="flex items-center space-x-3">
