@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Our Showroom",
-      details: "Plot No. 2, Shiva Garden, Hoskote, Bengaluru Rural, Karnataka – 562114",
+      details: "Plot No. 2, Shiva Garden, Hoskote, AHMEDABAD, GUJARAT,Pin-382481 – 562114",
       action: "Get Directions",
     },
     {
@@ -219,7 +219,7 @@ const Contact = () => {
                     <h4 className="font-semibold text-foreground mb-2">Wings Honda Showroom</h4>
                     <p className="text-sm text-muted-foreground mb-4">
                       Plot No. 2, Shiva Garden, Hoskote<br />
-                      Bengaluru Rural, Karnataka – 562114
+                      AHMEDABAD, GUJARAT,Pin-382481 – 562114
                     </p>
                     <Button variant="outline" size="sm">
                       Open in Google Maps

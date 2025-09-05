@@ -38,8 +38,8 @@ const Footer = () => {
               <div className="flex items-start space-x-3">
                 <MapPin className="h-5 w-5 text-primary mt-0.5 flex-shrink-0" />
                 <p className="text-sm text-muted-foreground">
-                  Plot No. 2, Shiva Garden, Hoskote,<br />
-                  Bengaluru Rural, Karnataka – 562114
+                 B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE,<br />
+                  AHMEDABAD, GUJARAT,Pin-382481 – 562114
                 </p>
               </div>
               <div className="flex items-center space-x-3">
