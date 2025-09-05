@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Our Showroom",
-      details: "B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE, AHMEDABAD, GUJARAT,B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE – Pin-382481",
+      details: "B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE, AHMEDABAD, GUJARAT, Pin-382481",
       action: "Get Directions",
     },
     {
