@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Our Showroom",
-      details: "B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE, AHMEDABAD, GUJARAT,Pin-382481 – 562114",
+      details: "B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE, AHMEDABAD, GUJARAT,B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE – 562114",
       action: "Get Directions",
     },
     {
@@ -219,7 +219,7 @@ const Contact = () => {
                     <h4 className="font-semibold text-foreground mb-2">Wings Honda Showroom</h4>
                     <p className="text-sm text-muted-foreground mb-4">
                       B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE<br />
-                      AHMEDABAD, GUJARAT,Pin-382481 – 562114
+                      AHMEDABAD, GUJARAT,B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE – 562114
                     </p>
                     <Button variant="outline" size="sm">
                       Open in Google Maps
