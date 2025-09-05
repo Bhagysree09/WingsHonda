@@ -210,7 +210,7 @@ const Index = () => {
               <MapPin className="h-8 w-8 text-primary flex-shrink-0" />
               <div>
                 <h4 className="font-semibold text-foreground mb-1">Visit Us</h4>
-                <p className="text-sm text-muted-foreground">Plot No. 2, Shiva Garden, Hoskote</p>
+                <p className="text-sm text-muted-foreground">B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE</p>
               </div>
             </div>
             

@@ -12,7 +12,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Our Showroom",
-      details: "Plot No. 2, Shiva Garden, Hoskote, AHMEDABAD, GUJARAT,Pin-382481 – 562114",
+      details: "B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE, AHMEDABAD, GUJARAT,Pin-382481 – 562114",
       action: "Get Directions",
     },
     {
@@ -218,7 +218,7 @@ const Contact = () => {
                     <MapPin className="h-12 w-12 text-primary mx-auto mb-4" />
                     <h4 className="font-semibold text-foreground mb-2">Wings Honda Showroom</h4>
                     <p className="text-sm text-muted-foreground mb-4">
-                      Plot No. 2, Shiva Garden, Hoskote<br />
+                      B-702 PRATHNA PEARL, VANDEMATRAM CIRCLE<br />
                       AHMEDABAD, GUJARAT,Pin-382481 – 562114
                     </p>
                     <Button variant="outline" size="sm">
